@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-02-28 10:53:42</sys_created_on>
+        <sys_id>f0d5050807ce0110cbd7f4218c1ed098</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_test.u_test_user</sys_name>
+        <sys_package display_value="Custom WorkSpace " source="6f25814007ce0110cbd7f4218c1ed023">6f25814007ce0110cbd7f4218c1ed023</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Custom WorkSpace ">6f25814007ce0110cbd7f4218c1ed023</sys_scope>
+        <sys_security_acl display_value="u_test">b4d5050807ce0110cbd7f4218c1ed093</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_f0d5050807ce0110cbd7f4218c1ed098</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-02-28 10:53:42</sys_updated_on>
+        <sys_user_role display_value="u_test_user" name="u_test_user">84d509c407ce0110cbd7f4218c1ed0a8</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
