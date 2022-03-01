@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="">Custom Applications</category>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name/>
+        <order/>
+        <roles>admin</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-01 16:04:20</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>288697102fc20110391a802df699b6f8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Customer Service</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Customer Service" source="85b517942f820110391a802df699b653">85b517942f820110391a802df699b653</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Customer Service">85b517942f820110391a802df699b653</sys_scope>
+        <sys_update_name>sys_app_application_288697102fc20110391a802df699b6f8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-01 16:04:20</sys_updated_on>
+        <title>Customer Service</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>
